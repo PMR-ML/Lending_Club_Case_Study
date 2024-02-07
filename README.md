@@ -24,10 +24,10 @@ On the other hand, approving loans for applicants not likely to repay and at ris
 
 
 ## Technologies Used
-Python - version 3.11.4
-Matplotlib - version 3.7.1
+Python - version 3.11.5
+Matplotlib - version 3.7.2
 Numpy - version 1.24.3
-Pandas - version 1.5.3
+Pandas - version 2.0.3
 Seaborn - version 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
